@@ -12,8 +12,9 @@ The project will involve the following tasks:
 
 
 ## Project Outcomes
-
-![Image](https://github.com/ThuyTran102/Unsupervised-Machine-Learning-Project/blob/main/images/Project_Outcome.png)
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="60%" src="https://github.com/ThuyTran102/Unsupervised-Machine-Learning-Project/blob/main/images/Project_Outcome.png" alt="Outcome"></img>
+</p>
 
 ### Insights:
 From the clustering results using AgglomerativeClustering and PCA, with Principal Component 1 as the x-axis and Principal Component 2 as the y-axis, we can divide customers into 3 client groups as follows:
