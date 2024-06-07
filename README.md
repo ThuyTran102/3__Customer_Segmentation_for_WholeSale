@@ -17,7 +17,7 @@ The project will involve the following tasks:
 </p>
 
 ### Insights:
-From the clustering results using AgglomerativeClustering and PCA, with Principal Component 1 as the x-axis and Principal Component 2 as the y-axis, we can divide customers into 3 client groups as follows:
+From the clustering results using AgglomerativeClustering and PCA, with Principal Component 1 as the x-axis and Principal Component 2 as the y-axis, we can divide customers into 4 client groups as follows:
 
 **1. Customer Group 1 (Blue):**
 > - Low values on both Component 1 and Component 2.
