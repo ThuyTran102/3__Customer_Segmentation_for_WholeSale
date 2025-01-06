@@ -7,7 +7,7 @@
 ## Table of Contents:
 - [Project Objectives](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-objectives)
 - [Project Desciption](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-description)
-- [Data Outcomes](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-outcomes)
+- [Project Outcomes](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-outcomes)
   - [Insights](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#insights)
   - [Conclusion](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#conclusion)
 
