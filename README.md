@@ -1,4 +1,5 @@
 # Customer Segmentation for WholeSale
+### Unsupervised Machine Learning Project
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
 <img width="40%" src="https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale/blob/main/images/customer_segmentation.png" alt="customer_segmentation"></img>
