@@ -1,6 +1,17 @@
-# Unsupervised Machine Learning Project
+# Customer Segmentation for WholeSale
 
-## Project Objectives
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="40%" src="https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale/blob/main/images/customer_segmentation.png" alt="customer_segmentation"></img>
+</p>
+
+## Table of Contents:
+- [Project Objectives](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-objectives)
+- [Project Desciption](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-description)
+- [Data Outcomes](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#project-outcomes)
+  - [Insights](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#insights)
+  - [Conclusion](https://github.com/ThuyTran102/3__Customer_Segmentation_for_WholeSale?tab=readme-ov-file#conclusion)
+
+## Project Objectives:
 In this project, we will apply unsupervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
 
 ## Project Description:
@@ -11,7 +22,7 @@ The project will involve the following tasks:
 -	Unsupervised learning: We will use the Wholesale Data dataset to perform k-means clustering, hierarchical clustering, and principal component analysis (PCA) to identify patterns and group similar data points together. We will determine the optimal number of clusters and communicate the insights gained through data visualization.
 
 
-## Project Outcomes
+## Project Outcomes:
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
 <img width="60%" src="https://github.com/ThuyTran102/Unsupervised-Machine-Learning-Project/blob/main/images/Project_Outcome.png" alt="Outcome"></img>
 </p>
@@ -20,9 +31,9 @@ The project will involve the following tasks:
 From the clustering results using AgglomerativeClustering and PCA, with Principal Component 1 as the x-axis and Principal Component 2 as the y-axis, we can divide customers into 4 client groups as follows:
 
 **1. Customer Group 1 (Blue):**
-> - Low values on both Component 1 and Component 2.
-> - Purchasing Behavior: Customers in this group exhibit low purchasing activity overall
-> - Possible Customer Segment: **Occasional Shoppers**: These customers might be infrequent shoppers who do not have high demand for either staple goods or specialty items. They might shop occasionally or have **smaller households**.
+>- Low values on both Component 1 and Component 2.
+>- Purchasing Behavior: Customers in this group exhibit low purchasing activity overall
+>- Possible Customer Segment: **Occasional Shoppers**: These customers might be infrequent shoppers who do not have high demand for either staple goods or specialty items. They might shop occasionally or have **smaller households**.
 
 **2. Customer Group 2 (Orange):**
 > - High values on Component 1, but low values on Component 2.
